@@ -1,4 +1,4 @@
-!pip install streamlit -q
+
 import streamlit as st 
 
 A=st.number_input("Enter first number: ")
